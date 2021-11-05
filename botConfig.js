@@ -1,5 +1,5 @@
 module.exports = {
-    token: "YOUR_TOKEN",
+    token: "ODUwODc4ODg3OTQzNjAyMjM3.YLwItw.XmneqO_g9xQ4pLYAbHjlL_yPjBw",
     prefix: "PREFIX",
     admins: [
         "PEOPLE WHO CAN USE ADD MONEY (IDS)"
